@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- 灰色系 -->
+    <color name="gray">#FF808080</color>
+    <color name="gray_dark">#FF424242</color>
+    <color name="gray_light">#FFE0E0E0</color>
+    <color name="gray_mid">#FF9E9E9E</color>
+
+    <!-- Material 标准色 -->
+    <color name="blue_500">#FF2196F3</color>
+    <color name="blue_light">#FFADD8E6</color>
+    <color name="blue_dark">#FF1565C0</color>
+
+    <color name="red_500">#FFF44336</color>
+    <color name="red_light">#FFFFA500</color>
+    <color name="red_dark">#FFD32F2F</color>
+
+    <color name="green_500">#FF4CAF50</color>
+    <color name="green_light">#FFADFF2F</color>
+    <color name="green_dark">#FF2E7D32</color>
+
+    <color name="yellow_500">#FFFFEB3B</color>
+    <color name="yellow_dark">#FFFBC02D</color>
+
+    <color name="orange_500">#FFFF9800</color>
+    <color name="orange_dark">#FFF57C00</color>
+
+    <color name="purple_500">#FF9C27B0</color>
+    <color name="purple_dark">#FF7B1FA2</color>
+
+    <!-- 语义化颜色 -->
+    <color name="color_primary">@color/blue_500</color>
+    <color name="color_primary_dark">@color/blue_dark</color>
+    <color name="color_accent">@color/green_500</color>
+
+    <color name="text_primary">@color/black</color>
+    <color name="text_secondary">@color/gray_dark</color>
+    <color name="text_hint">@color/gray_mid</color>
+
+    <color name="bg_window">@color/white</color>
+    <color name="bg_content">@color/gray_light</color>
+
+    <!-- 状态颜色 -->
+    <color name="success">@color/green_500</color>
+    <color name="warning">@color/yellow_dark</color>
+    <color name="error">@color/red_500</color>
+    <color name="info">@color/blue_500</color>
+
+    <!-- 边框/分割线 -->
+    <color name="divider">#1F000000</color>
+    <color name="border">#33000000</color>
+</resources>
